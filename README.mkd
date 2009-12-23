@@ -1,0 +1,3 @@
+h1. Generic Syntax Highlighter for Java (GeSHi4J)
+
+GeSHi4J is a wrapper for the popular PHP library GeSHi, made possible by Coucho's PHP parser for Java.  
