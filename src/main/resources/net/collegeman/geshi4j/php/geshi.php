@@ -4640,9 +4640,3 @@ if (!function_exists('geshi_highlight')) {
         return true;
     }
 }
-
-error_reporting(0);
-
-$geshi = new GeSHi($toHighlight, $lang);
-$geshi->enable_line_numbers($enableLineNumbers);
-echo $geshi->parse_code();
