@@ -1,0 +1,15 @@
+<plugin name='geshi4j' version='0.1.0' grailsVersion='1.1.2 &gt; *'>
+  <author>Aaron Collegeman</author>
+  <authorEmail>aaron@collegeman.net</authorEmail>
+  <title>GeSHi4J</title>
+  <description>\
+GeSHi4J is a wrapper for the popular PHP library GeSHi, made possible by Coucho's PHP parser for Java.
+</description>
+  <documentation>http://grails.org/Geshi4j+Plugin</documentation>
+  <resources>
+    <resource>DataSource</resource>
+    <resource>UrlMappings</resource>
+    <resource>GeshiTagLib</resource>
+  </resources>
+  <dependencies />
+</plugin>
