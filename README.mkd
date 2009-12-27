@@ -1,3 +1,8 @@
 #Generic Syntax Highlighter for Java (GeSHi4J)
 
-GeSHi4J is a wrapper for the popular PHP library GeSHi, made possible by Coucho's PHP parser for Java.  
+GeSHi4J is a wrapper around the popular PHP library [GeSHi](http://qbnz.com/highlighter/faq.php) for generating highlighted code in standards-compliant HTML.  Available for your purposes are
+
+* A Java and Groovy library (geshi4j.jar)
+* A Grails plug-in, enabling GSP tag &lt;geshi:highlight&gt;&lt;/geshi:highlight&gt;
+
+This library and plug-in are made possible by the [PHP-in-Java](http://github.com/collegeman/php-in-java) project and [Caucho's](http://caucho.com) Quercus PHP interpreter for Java.  
