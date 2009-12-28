@@ -2,3 +2,4 @@ target/**
 grails/stacktrace.log
 test/reports
 output.html
+grails/grails-geshi4j*

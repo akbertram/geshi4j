@@ -1,4 +1,4 @@
-<plugin name='geshi4j' version='0.1.0' grailsVersion='1.1.2 &gt; *'>
+<plugin name='geshi4j' version='1.0.0' grailsVersion='1.1.2 &gt; *'>
   <author>Aaron Collegeman</author>
   <authorEmail>aaron@collegeman.net</authorEmail>
   <title>GeSHi4J</title>
