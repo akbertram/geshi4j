@@ -1,3 +1,0 @@
---Output from testGeshi--
-<pre class="php" style="font-family:monospace;"><span style="color: #b1b100;">echo</span> <span style="color: #0000ff;">'Hello, world!'</span><span style="color: #339933;">;</span></pre>
-

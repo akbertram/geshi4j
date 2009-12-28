@@ -1,4 +1,0 @@
---Output from testGeshi--
-Dec 23, 2009 5:26:37 PM com.caucho.quercus.Quercus parseServicesModule
-INFO: Failed loading com.caucho.quercus.lib.MailModule
-java.lang.NoClassDefFoundError: javax/mail/Address

@@ -7,6 +7,7 @@ GeSHi4J is a wrapper for the popular PHP library GeSHi, made possible by Coucho'
 </description>
   <documentation>http://grails.org/Geshi4j+Plugin</documentation>
   <resources>
+    <resource>Config</resource>
     <resource>DataSource</resource>
     <resource>UrlMappings</resource>
     <resource>GeshiTagLib</resource>

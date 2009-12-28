@@ -1,2 +1,3 @@
 target/**
 grails/stacktrace.log
+test/reports
