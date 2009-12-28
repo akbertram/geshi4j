@@ -13,7 +13,12 @@ The GeSHi plug-in for Grails is by far the easiest way to take advantage of the 
 
 Access to the library is implemented through a custom GSP tag named `g:geshi`.
 
-And this is how you use it
+##Installation
+
+
+##Usage
+
+This is how you use the custom tag
 
 	<g:geshi lang="groovy">
 		def groovy = {

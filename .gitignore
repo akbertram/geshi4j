@@ -1,3 +1,4 @@
 target/**
 grails/stacktrace.log
 test/reports
+output.html
