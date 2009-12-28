@@ -15,6 +15,9 @@ Access to the library is implemented through a custom GSP tag named `g:geshi`.
 
 ##Installation
 
+From within your local Grails project
+
+	grails install-plugin http://cloud.github.com/downloads/collegeman/geshi4j/grails-geshi4j-1.0.0.zip
 
 ##Usage
 
